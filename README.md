@@ -1,3 +1,5 @@
+![image](https://github.com/nikhilbadoni/nikhilbadoni/assets/119112783/d62a0f83-1900-4882-88dc-43784e62dbf8)
+
 <h1 align="center">Hi 👋, I'm Nikhil badoni</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
